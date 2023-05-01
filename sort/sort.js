@@ -1,8 +1,8 @@
-exports.bubble_sort = function (list) {
+exports.bubbleSort = function (list) {
 	return sortList(list, (a, b) => a > b);
 };
 
-exports.bubble_sort_rev = function (list) {
+exports.bubbleSortRev = function (list) {
 	return sortList(list, (a, b) => a < b);
 };
 
