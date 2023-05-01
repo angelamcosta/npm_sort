@@ -3,5 +3,15 @@
 	"version": "1.0.5",
 	"author": "Angela Lima <angelamcostalima@icloud.com>",
 	"description": "My personal sort functions in JS.",
-	"keywords": ["sort", "algorithms", "bubble sort"]
+	"keywords": [
+		"sort",
+		"algorithms",
+		"bubble sort"
+	],
+	"devDependencies": {
+		"jest": "^29.5.0"
+	},
+	"scripts": {
+		"test": "jest"
+	}
 }
