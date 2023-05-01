@@ -1,0 +1,7 @@
+{
+	"name": "@angelamcosta/sort",
+	"version": "1.0.4",
+	"author": "Angela Lima <angelamcostalima@icloud.com>",
+	"description": "My personal sort functions in JS.",
+	"keywords": ["sort", "algorithms", "bubble sort"]
+}
