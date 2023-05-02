@@ -45,6 +45,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you have any questions or issues, please contact the author.
 
-<!-- ## Issues
+## Issues
 
-If you find any bugs or have any suggestions, please file an [issue](https://github.com/angelamcosta/sort/issues) here. -->
+If you find any bugs or have any suggestions, please file an [issue](https://github.com/angelamcosta/npm_sort/issues) here.
