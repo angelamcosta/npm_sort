@@ -1,9 +1,9 @@
 {
 	"name": "@angelamcosta/sort",
-	"version": "1.1.8",
+	"version": "1.1.9",
 	"author": "Angela Lima <angelamcostalima@icloud.com>",
 	"description": "My personal sort functions in JS.",
-	"main": "sort.js",
+	"main": "index.js",
 	"keywords": [
 		"sort",
 		"algorithms",

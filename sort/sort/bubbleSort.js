@@ -10,10 +10,8 @@ function sortList(list, compareFunc) {
 	let cont = 0;
 	let i = 0;
 
-	while (i < list.length)
-	{
-		if (compareFunc(list[i], list[i + 1]))
-		{
+	while (i < list.length) {
+		if (compareFunc(list[i], list[i + 1])) {
 			let temp = list[i];
 			list[i] = list[i + 1];
 			list[i + 1] = temp;
