@@ -28,7 +28,7 @@ console.log(sortedArr); // Output: [1, 2, 3, 6, 9]
 The following sorting algorithms are available in this library:
 
 - Bubble Sort
-- Selection Sort (soon)
+- Selection Sort
 - Insertion Sort (soon)
 - Merge Sort (soon)
 - Quick Sort (soon)
