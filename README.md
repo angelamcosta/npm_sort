@@ -1,6 +1,6 @@
 # @angelamcosta/sort
 
-[![npm version](https://badge.fury.io/js/%40angelamcosta%2Fsort.svg)](https://badge.fury.io/js/%40angelamcosta%2Fsort)
+[![npm version](https://badge.fury.io/js/%40angelamcosta%2Fsort.svg)](https://badge.fury.io/js/%40angelamcosta%2Fsort) ![example workflow](https://github.com/angelamcosta/npm_sort/actions/workflows/test.yml/badge.svg)
 
 ## Description 
 
