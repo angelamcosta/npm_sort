@@ -29,7 +29,7 @@ The following sorting algorithms are available in this library:
 
 - Bubble Sort
 - Selection Sort
-- Insertion Sort (soon)
+- Insertion Sort
 - Merge Sort (soon)
 - Quick Sort (soon)
 
