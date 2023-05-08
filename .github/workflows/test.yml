@@ -1,19 +1,29 @@
-name: Sort Package Test
+name: Node.js CI
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
 
-    - name: Use Node.js
+    - name: Use Node.js 14.x
       uses: actions/setup-node@v2
       with:
-        node-version: '16.x'
+        node-version: '14.x'
 
-    - run: npm install
+    - name: Install Dependencies
+      working-directory: ./sort
+      run: npm install
 
-    - run: npm run test
+    - name: Run Tests
+      working-directory: ./sort
+      run: npm test
